@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Sanjeev Kapoor",
+      "experience": 35,
+      "recipes": 500,
+      "likes": 12000,
+      "picture": "https://st4.depositphotos.com/1017986/24610/i/1600/depositphotos_246100736-stock-photo-happy-male-indian-chef-in.jpg",
+      "details": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He has hosted numerous cooking shows on television and has published several cookbooks. Kapoor is known for his modern take on traditional Indian dishes and has won several awards for his contributions to the food industry."
+    },
+    {
+      "id": 2,
+      "name": "Vikas Khanna",
+      "experience": 20,
+      "recipes": 300,
+      "likes": 8000,
+      "picture": "https://st2.depositphotos.com/1158045/6326/i/950/depositphotos_63268837-stock-photo-smiling-chef-in-kitchen.jpg",
+      "details": "Vikas Khanna is an Indian Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India. He is known for his fusion cuisine, blending Indian and western styles of cooking, and his culinary innovations."
+    },
+    {
+      "id": 3,
+      "name": "Ritu Dalmia",
+      "experience": 25,
+      "recipes": 250,
+      "likes": 7000,
+      "picture": "https://st4.depositphotos.com/7893220/38348/i/1600/depositphotos_383482688-stock-photo-chef-male-prepare-steak-at.jpg",
+      "details": "Ritu Dalmia is an Indian chef and restaurateur, who is the owner of Diva, an Italian restaurant in New Delhi. She is known for her innovative approach to Italian cuisine, incorporating Indian flavors and ingredients into traditional Italian dishes."
+    },
+    {
+      "id": 4,
+      "name": "Atul Kochhar",
+      "experience": 30,
+      "recipes": 400,
+      "likes": 10000,
+      "picture": "https://st3.depositphotos.com/1003697/19566/i/1600/depositphotos_195665944-stock-photo-cook-chef-decorating-garnishing-prepared.jpg",
+      "details": "Atul Kochhar is an Indian-born, Michelin-starred chef who is best known for his modern Indian cuisine. He is the owner of the Benares restaurant in London, and has won numerous awards for his culinary achievements."
+    },
+    {
+      "id": 5,
+      "name": "Madhur Jaffrey",
+      "experience": 40,
+      "recipes": 350,
+      "likes": 9000,
+      "picture": "https://st.depositphotos.com/1518767/4292/i/950/depositphotos_42924791-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+      "details": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has written numerous cookbooks, including the bestselling 'Madhur Jaffrey's Indian Cooking'. Jaffrey is known for her authentic Indian recipes and her contributions to promoting Indian cuisine worldwide."
+    },
+    {
+      "id": 6,
+      "name": "Tarla Dalal",
+      "experience": 45,
+      "recipes": 600,
+      "likes": 15000,
+      "picture": "https://st2.depositphotos.com/1011514/12334/i/950/depositphotos_123348544-stock-photo-chef-preparing-ornamental-elements.jpg",
+      "details": "Tarla Dalal was an Indian food writer, chef, cookbook author and host of cooking shows. She wrote more than 100 cookbooks and was known for her vegetarian recipes. Dalal received numerous awards for her contributions to the Indian culinary scene."
+    }
+  ]

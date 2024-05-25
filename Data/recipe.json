@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Palak Paneer",
+      "picture": "https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "cooking_details": "Heat oil in a pan. Add onions, ginger, and garlic and cook until onions are golden brown. Add spinach and cook until wilted. Add paneer, salt, and garam masala and cook until heated through.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Chana Masala",
+      "picture": "https://media.istockphoto.com/id/1182758935/photo/homemade-indian-chickpea-chana-masala.jpg?s=2048x2048&w=is&k=20&c=DYpfxZ6ob7y35atgMNWnZDofthQTlvjOxmZGMR6lBB0=",
+      "cooking_details": "Heat oil in a pan. Add cumin seeds and cook until fragrant. Add onions, ginger, and garlic and cook until onions are golden brown. Add tomatoes, spices, and chickpeas and simmer for 10-15 minutes.",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Chicken Tikka Masala",
+      "picture": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1671&q=80",
+      "cooking_details": "Marinate chicken in yogurt and spices for at least 1 hour. Grill or broil chicken until cooked through. Heat oil in a pan. Add onions, ginger, and garlic and cook until onions are golden brown. Add tomatoes, spices, and cream and simmer for 10-15 minutes. Add cooked chicken and simmer for an additional 5-10 minutes.",
+      "rating": 4.7
+    }
+  ]
